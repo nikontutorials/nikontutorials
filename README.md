@@ -1,14 +1,6 @@
-### Hi there 👋
+### Hi there 👋 and welcome to NikonTutorials.com
 
-**nikontutorials/nikontutorials** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This site will be a collection of tutorials, trips, tricks and news all related to Nikon cameras and lenses.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on this. 
-- 🌱 I’m currently learning this.
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with this.
-- 💬 Ask me about nothing.
-- 📫 How to reach me: nope.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: none.
+Open source! you can view the source code at https://github.com/nikontutorials/nikontutorials
